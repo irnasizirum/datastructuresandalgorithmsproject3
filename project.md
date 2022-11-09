@@ -57,4 +57,5 @@ Cevap :
    / \
   2   4
 -----------
+
 [Patika Linkim](https://app.patika.dev/irnasizirum)
